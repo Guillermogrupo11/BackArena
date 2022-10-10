@@ -1,7 +1,7 @@
 package com.portfolio.gda.Controller;
 
 import com.portfolio.gda.Entity.Persona;
-import com.portfolio.gda.Interface.IPersonaService;
+
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
