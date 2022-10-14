@@ -29,7 +29,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 
-@CrossOrigin(origins = {"https://gdafrontend.web.app","http://localhost:4200"})
+@CrossOrigin(origins = {"https://gdafrontendargprog.web.app","http://localhost:4200"})
 @RequestMapping("/skill")
 public class CHys {
 
